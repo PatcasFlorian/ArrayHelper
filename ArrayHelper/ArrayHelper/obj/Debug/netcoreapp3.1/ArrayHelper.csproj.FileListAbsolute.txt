@@ -1,0 +1,13 @@
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\bin\Debug\netcoreapp3.1\ArrayHelper.exe
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\bin\Debug\netcoreapp3.1\ArrayHelper.deps.json
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\bin\Debug\netcoreapp3.1\ArrayHelper.runtimeconfig.json
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\bin\Debug\netcoreapp3.1\ArrayHelper.runtimeconfig.dev.json
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\bin\Debug\netcoreapp3.1\ArrayHelper.dll
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\bin\Debug\netcoreapp3.1\ArrayHelper.pdb
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\obj\Debug\netcoreapp3.1\ArrayHelper.csprojAssemblyReference.cache
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\obj\Debug\netcoreapp3.1\ArrayHelper.csproj.CoreCompileInputs.cache
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\obj\Debug\netcoreapp3.1\ArrayHelper.AssemblyInfoInputs.cache
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\obj\Debug\netcoreapp3.1\ArrayHelper.AssemblyInfo.cs
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\obj\Debug\netcoreapp3.1\ArrayHelper.dll
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\obj\Debug\netcoreapp3.1\ArrayHelper.pdb
+C:\Users\patca\Desktop\C#\Curs7\PatcasFlorian\ArrayHelper\ArrayHelper\ArrayHelper\obj\Debug\netcoreapp3.1\ArrayHelper.genruntimeconfig.cache
