@@ -6,11 +6,23 @@ namespace ArrayHelper
 {
     class SearchResult<T>
     {
-        public SearchResult(T item)
+        private readonly T[] array;
+        public SearchResult(params T[] array)
         {
-            this.Item = item;
+            this.array = array ?? new T[0];
         }
 
-        public T Item { get; }
+        
+        public bool SearchT(int index, out T element)
+        {
+            if ((index >= 0) && (index < this.array.Length))
+            {
+                element = this.array[index];
+                return true;
+            }
+
+            element = default(T);
+            return false;
+        }
     }
 }
