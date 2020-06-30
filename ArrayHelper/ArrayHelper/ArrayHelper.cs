@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
 
@@ -13,21 +14,24 @@ namespace ArrayHelper
         public static int IndexReturn<T>(T[] array, T element)
             where T : IEquatable<T>
         {
-            int index = -1;
+            
+            int index =0;
             array ??= new T[0];
             if (element != null)
             {
-                for (int i = 0; i < array.Length; i++)
+                foreach (T elem in array)
                 {
-                    if (element.Equals(array[i]))
+                    
+                    if (element.Equals(elem))
                     {
-                        index = i;
+                        
                         return index;
                     }
+                    index++;
                 }
             }
 
-            return index;
+            return -1;
         }
     }
 }
